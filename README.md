@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there, welcome to Piscean's Repository. 👋
+![image](https://github.com/user-attachments/assets/530ca933-3b11-46bf-bca4-a046729f30a8)
 
 <!--
 **hiimpiscean/hiimpiscean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
