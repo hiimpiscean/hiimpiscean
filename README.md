@@ -1,5 +1,5 @@
-## Hi there, welcome to Piscean's Repository. 👋
-![image](https://github.com/user-attachments/assets/8d3b90f9-ad9b-4c0a-a3f8-e1bdc5907b16)
+## Hi there, welcome to my Repository. 👋
+[image](https://github.com/user-attachments/assets/8d3b90f9-ad9b-4c0a-a3f8-e1bdc5907b16)
 
 
 <!--
