@@ -3,7 +3,7 @@
 🔭 I am working as an IT support for VNPT Hanoi.  
 ✨ My hobbies are listening to music, taking pictures, traveling, riding motorbikes...  
 👩‍💻 I'm not a developer; I just want to be a network analyst.  
-☺️ Thanks for reading!  
+Thanks for reading! ☺️  
 ![image](https://github.com/user-attachments/assets/8d3b90f9-ad9b-4c0a-a3f8-e1bdc5907b16)
 
 
